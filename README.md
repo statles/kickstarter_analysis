@@ -14,6 +14,7 @@ A pivot table was created from the 'kickstarter' sheet. This pivot table would f
 A new sheet was created that pulled data from the 'kickstarter' sheet. This sheet pulled a count of each project in the plays subcategory. There were no cancelled projects in the plays subcategories. Totals and percentages were generated from these values.
 ### Challenges and Difficulties Encountered
 The challenge of this analysis was creating separate =COUNTIFS functions for each price category.
+![Countifs screenshot](https://user-images.githubusercontent.com/95397823/148708844-baf11f6d-9c7a-446f-96d9-12c35e3b5c4a.PNG)
 
 ## Results
 From Outcomes based on Launch Date, you can conclude that most theater campaigns are launched between May and July. Additionally, the success rate of theater campaigns decreases during the winter months, but success picks back up again in the spring. However, in 2016, March through May was the most successful time to launch an campaign.
